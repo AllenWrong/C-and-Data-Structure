@@ -17,3 +17,6 @@ This repository contains:
    
    Use this code segment: `#include <stddef.h>`
    
+2. `%p`
+
+   Output the address in hex format.
